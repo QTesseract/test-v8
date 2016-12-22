@@ -12295,7 +12295,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
       "sp": 45
     },
     "w": 6.0
-  }
+  }.
   "Aerodactyl-Gyarados": {
     "t1": "Rock",
     "t2": "Dark",
@@ -12382,19 +12382,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     },
     "w": 4.0,
     "ab": "Magic Bounce"
-  },
-  "Mewtwo": {
-    "t1": "Psychic",
-    "bs": {
-      "hp": 106,
-      "at": 110,
-      "df": 90,
-      "sa": 154,
-      "sd": 90,
-      "sp": 130,
-      "sl": 154
-    },
-    "w": 122.0
   },
   "Nidoking-Redorb": {
     "t1": "Poison",
@@ -12491,32 +12478,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     "w": 202.0,
     "ab": "Aerilate"
   },
-  "Ho-Oh": {
-    "t1": "Fire",
-    "t2": "Flying",
-    "bs": {
-      "hp": 106,
-      "at": 130,
-      "df": 90,
-      "sa": 110,
-      "sd": 154,
-      "sp": 90
-    },
-    "w": 199.0
-  },
-  "Lugia": {
-    "t1": "Psychic",
-    "t2": "Flying",
-    "bs": {
-      "hp": 106,
-      "at": 90,
-      "df": 130,
-      "sa": 90,
-      "sd": 154,
-      "sp": 110
-    },
-    "w": 216.0
-  },
   "Raikou-Redorb": {
     "t1": "Electric",
     "t2": "Fire",
@@ -12544,7 +12505,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     },
     "w": 118.0
     "ab": "Primordial Sea"
-
   },
   "Skarmory-Blueorb": {
     "t1": "Steel",
@@ -12612,19 +12572,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     },
     "w": 39.2
   },
-  "Deoxys-Attack": {
-    "t1": "Psychic",
-    "bs": {
-      "hp": 50,
-      "at": 180,
-      "df": 20,
-      "sa": 180,
-      "sd": 20,
-      "sp": 150
-    },
-    "w": 60.8,
-    "ab": "Pressure"
-  },
   "Deoxys-Defense-Sableye": {
     "t1": "Psychic",
     "bs": {
@@ -12650,19 +12597,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     },
     "w": 60.8,
     "ab": "Mold Breaker"
-  },
-  "Groudon": {
-    "t1": "Ground",
-    "bs": {
-      "hp": 100,
-      "at": 150,
-      "df": 140,
-      "sa": 100,
-      "sd": 90,
-      "sp": 90
-    },
-    "w": 950.0,
-    "ab": "Drought"
   },
   "Jirachi-Pinsir": {
     "t1": "Steel",
@@ -12732,241 +12666,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     },
     "w": 162.0
   },
-  "Rayquaza": {
-    "t1": "Dragon",
-    "t2": "Flying",
-    "bs": {
-      "hp": 105,
-      "at": 150,
-      "df": 90,
-      "sa": 150,
-      "sd": 90,
-      "sp": 95
-    },
-    "w": 206.5,
-    "ab": "Air Lock"
-  },
-  "Arceus": {
-    "t1": "Normal",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Bug": {
-    "t1": "Bug",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Dark": {
-    "t1": "Dark",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Dragon": {
-    "t1": "Dragon",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Electric": {
-    "t1": "Electric",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Fighting": {
-    "t1": "Fighting",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Fire": {
-    "t1": "Fire",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Flying": {
-    "t1": "Flying",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Ghost": {
-    "t1": "Ghost",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Grass": {
-    "t1": "Grass",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Ground": {
-    "t1": "Ground",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Ice": {
-    "t1": "Ice",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Poison": {
-    "t1": "Poison",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Psychic": {
-    "t1": "Psychic",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Rock": {
-    "t1": "Rock",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Steel": {
-    "t1": "Steel",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
-  "Arceus-Water": {
-    "t1": "Water",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
-  },
   "Azelf-Absol": {
     "t1": "Psychic",
     "bs": {
@@ -13006,19 +12705,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     "w": 50.5,
     "ab": "Magic Bounce"
   },
-  "Dialga": {
-    "t1": "Steel",
-    "t2": "Dragon",
-    "bs": {
-      "hp": 100,
-      "at": 120,
-      "df": 120,
-      "sa": 150,
-      "sd": 100,
-      "sp": 90
-    },
-    "w": 683.0
-  },
   "Empoleon-Blueorb": {
     "t1": "Water",
     "t2": "Steel",
@@ -13045,33 +12731,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
       "sp": 142
     },
     "w": 95.0
-  },
-  "Giratina": {
-    "t1": "Ghost",
-    "t2": "Dragon",
-    "bs": {
-      "hp": 150,
-      "at": 100,
-      "df": 120,
-      "sa": 100,
-      "sd": 120,
-      "sp": 90
-    },
-    "w": 750.0
-  },
-  "Giratina-Origin": {
-    "t1": "Ghost",
-    "t2": "Dragon",
-    "bs": {
-      "hp": 150,
-      "at": 120,
-      "df": 100,
-      "sa": 120,
-      "sd": 100,
-      "sp": 90
-    },
-    "w": 650.0,
-    "ab": "Levitate"
   },
   "Gliscor-Redorb": {
     "t1": "Ground",
@@ -13426,20 +13085,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     "w": 46.0
     "ab": "Desolate Land",
   },
-  "Zekrom": {
-    "t1": "Dragon",
-    "t2": "Electric",
-    "bs": {
-      "hp": 100,
-      "at": 150,
-      "df": 120,
-      "sa": 120,
-      "sd": 100,
-      "sp": 90
-    },
-    "w": 345.0,
-    "ab": "Teravolt"
-  },
   "Zoroark-Absol": {
     "t1": "Dark",
     "bs": {
@@ -13452,19 +13097,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     },
     "w": 81.1,
     "ab": "Illusion"
-  },
-  "Arceus-Fairy": {
-    "t1": "Fairy",
-    "bs": {
-      "hp": 120,
-      "at": 120,
-      "df": 120,
-      "sa": 120,
-      "sd": 120,
-      "sp": 120
-    },
-    "w": 320.0,
-    "ab": "Multitype"
   },
    "Hoopa-Unbound-Blastoise": {
     "t1": "Psychic",
@@ -13494,131 +13126,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     "w": 492.0,
      "ab": "Magic Bounce"
   },
-  "Blaziken-Mega": {
-    "t1": "Fire",
-    "t2": "Fighting",
-    "bs": {
-      "hp": 80,
-      "at": 160,
-      "df": 80,
-      "sa": 130,
-      "sd": 80,
-      "sp": 100
-    },
-    "w": 52.0,
-    "ab": "Speed Boost"
-  },
-  "Gengar-Mega": {
-    "t1": "Ghost",
-    "t2": "Poison",
-    "bs": {
-      "hp": 60,
-      "at": 65,
-      "df": 80,
-      "sa": 170,
-      "sd": 95,
-      "sp": 130
-    },
-    "w": 40.5,
-    "ab": "Shadow Tag"
-  },
-  "Rayquaza-Mega": {
-    "t1": "Dragon",
-    "t2": "Flying",
-    "bs": {
-      "hp": 105,
-      "at": 180,
-      "df": 100,
-      "sa": 180,
-      "sd": 100,
-      "sp": 115
-    },
-    "w": 392.0,
-    "ab": "Delta Stream"
-  },
-  "Salamence-Mega": {
-    "t1": "Dragon",
-    "t2": "Flying",
-    "bs": {
-      "hp": 95,
-      "at": 145,
-      "df": 130,
-      "sa": 120,
-      "sd": 90,
-      "sp": 120
-    },
-    "w": 112.6,
-    "ab": "Aerilate"
-  },
-  "Groudon-Primal": {
-    "t1": "Ground",
-    "t2": "Fire",
-    "bs": {
-      "hp": 100,
-      "at": 180,
-      "df": 160,
-      "sa": 150,
-      "sd": 90,
-      "sp": 90
-    },
-    "w": 999.7,
-    "ab": "Desolate Land"
-  },
-  "Kyogre-Primal": {
-    "t1": "Water",
-    "bs": {
-      "hp": 100,
-      "at": 150,
-      "df": 90,
-      "sa": 180,
-      "sd": 160,
-      "sp": 90
-    },
-    "w": 430.0,
-    "ab": "Primordial Sea"
-  },
-  "Xerneas": {
-    "t1": "Fairy",
-    "bs": {
-      "hp": 126,
-      "at": 131,
-      "df": 95,
-      "sa": 131,
-      "sd": 98,
-      "sp": 99
-    },
-    "w": 215.0,
-    "ab": "Fairy Aura"
-  },
-  "Yveltal": {
-    "t1": "Dark",
-    "t2": "Flying",
-    "bs": {
-      "hp": 126,
-      "at": 131,
-      "df": 95,
-      "sa": 131,
-      "sd": 98,
-      "sp": 99
-    },
-    "w": 203.0,
-    "ab": "Dark Aura"
-  },
-  "Zygarde": {
-    "t1": "Dragon",
-    "t2": "Ground",
-    "bs": {
-      "hp": 108,
-      "at": 100,
-      "df": 121,
-      "sa": 81,
-      "sd": 95,
-      "sp": 95
-    },
-    "w": 305.0,
-    "ab": "Aura Break"
-  }
-  "Zygarde": {
+  "Zygarde-p": {
     "t1": "Dragon",
     "t2": "Ground",
     "bs": {
@@ -13686,20 +13194,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     },
     "w": 0.1,
     "ab": "Tough Claws"
-  },
-  "Lunala": {
-    "t1": "Psychic",
-    "t2": "Ghost",
-    "bs": {
-      "hp": 137,
-      "at": 113,
-      "df": 89,
-      "sa": 137,
-      "sd": 107,
-      "sp": 97
-    },
-    "w": 120.0,
-    "ab": "Shadow Shield"
   },
   "Magearna-Venusaur": {
     "t1": "Steel",
@@ -13820,6 +13314,4 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
     },
     "w": 100.0,
   },
-});
-
 });
